@@ -22,6 +22,8 @@ the "msvc" directory). Compiling should be straightforward, although
 you will need to have the latest DirectX SDK correctly installed on
 your machine.
 
+The boost C++ libraries (http://www.boost.org/) are required for compiling the solution.
+
 
 Roadmap
 =======
