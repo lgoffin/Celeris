@@ -22,6 +22,8 @@ the "msvc" directory). Compiling should be straightforward, although
 you will need to have the latest DirectX SDK correctly installed on
 your machine.
 
+It seems that DirectX versions older than 2010 do not include anymore d3dx11. So install the June 2010 version.
+
 The boost C++ libraries (http://www.boost.org/) are required for compiling the solution.
 
 
